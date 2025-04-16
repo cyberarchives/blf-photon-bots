@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "deep-equal": "^2.2.3",
+    "ws": "^8.18.1"
+  }
+}
