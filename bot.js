@@ -297,6 +297,7 @@ function sendJoinRoomPacket(gameRoomName) {
     gameSocket.send(bufferData);
 }
 
+// This sends the joinRoom request
 setTimeout(() => {
     joinRoom(gameRoomName);
     botLog("Trying to join room", gameRoomName);
