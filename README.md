@@ -1,7 +1,10 @@
 # This is just a test bot
 
-- This can only join a lobby as of now
-- Protocol needs updates
+- This bot can
+- Join a lobby
+- Kick everyone
+- Show an announcement on everyone's screen
+- Kick specific users
 
 # Credits
 - Yellowberry (Photon Parser)
